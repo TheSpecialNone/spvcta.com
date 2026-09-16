@@ -1,12 +1,19 @@
 {
-  "totalRaised": 11865,
-  "salesTotal": 1516,
-  "accountBalance": 10349,
-  "availableRobux": 9244,
-  "pendingRobux": 1105,
+  "totalRaised": 21401,
+  "salesTotal": 10966,
+  "accountBalance": 10435,
+  "availableRobux": 9324,
+  "pendingRobux": 1111,
   "goal": 24800,
-  "lastUpdated": "2026-09-16T08:23:56.011Z",
+  "lastUpdated": "2026-09-16T13:36:41.687Z",
   "topDonators": [
+    {
+      "name": "MxxMxMxxMzz",
+      "displayName": "MxxMxMxxMzz",
+      "amount": 9450,
+      "userId": 10102870326,
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BA719747FBA2195462C125CBFDE46BD2-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
     {
       "name": "C0MPP",
       "displayName": "comp",
