@@ -1,11 +1,11 @@
 {
-  "totalRaised": 21517,
-  "salesTotal": 10966,
+  "totalRaised": 21524,
+  "salesTotal": 10973,
   "accountBalance": 10551,
-  "availableRobux": 9383,
-  "pendingRobux": 1168,
+  "availableRobux": 9386,
+  "pendingRobux": 1165,
   "goal": 24800,
-  "lastUpdated": "2026-09-16T17:44:13.751Z",
+  "lastUpdated": "2026-09-16T20:26:03.272Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -19,7 +19,7 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8AE7975E94564D82404B087F9900C7A1-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EE76D5F2BDB3CBEE1DB13B5C86CB1663-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
@@ -80,7 +80,7 @@
     {
       "name": "P1xnet",
       "displayName": "Planet",
-      "amount": 17,
+      "amount": 24,
       "userId": 208100335,
       "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6B15C4AF13C9E4B5021C331A863E9B29-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
@@ -89,7 +89,7 @@
       "displayName": "pvxvel",
       "amount": 10,
       "userId": 1168411447,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-78052E49AC81ED747FDC30E06CEC212F-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-782CE7A8113EBE30DBD8017D82B2B8A0-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "Bacaira",
