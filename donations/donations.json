@@ -1,11 +1,11 @@
 {
-  "totalRaised": 22586,
+  "totalRaised": 22805,
   "salesTotal": 11165,
-  "accountBalance": 11421,
+  "accountBalance": 11640,
   "availableRobux": 9959,
-  "pendingRobux": 1462,
+  "pendingRobux": 1681,
   "goal": 24800,
-  "lastUpdated": "2026-09-20T14:45:31.589Z",
+  "lastUpdated": "2026-09-20T17:49:40.393Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -19,7 +19,7 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FD9607B657515B53CAC136CC39EFE4C9-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-99A398DC7B2807B518B11A69675F0AB4-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
@@ -54,7 +54,7 @@
       "displayName": "fewxor",
       "amount": 192,
       "userId": 4706449351,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-948A1C3B51D4B3D310DB3D59E4C92F4A-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5D857E20F65D40C050B12A07483E642C-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "d9zrnond",
@@ -82,7 +82,7 @@
       "displayName": "travis",
       "amount": 35,
       "userId": 3205399634,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4C00B03A89E9B093946D96DE8B0C2EC8-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E7226E72B1209749237F7BD01A4DA518-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "P1xnet",
@@ -117,7 +117,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-04BC5F68DB50856B018B09934890B809-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF05B471BBC671FB9E1ABC223D4D8002-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
