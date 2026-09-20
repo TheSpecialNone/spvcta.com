@@ -1,11 +1,11 @@
 {
-  "totalRaised": 22889,
+  "totalRaised": 22931,
   "salesTotal": 11165,
-  "accountBalance": 11724,
-  "availableRobux": 10043,
+  "accountBalance": 11766,
+  "availableRobux": 10085,
   "pendingRobux": 1681,
   "goal": 24800,
-  "lastUpdated": "2026-09-20T21:47:37.980Z",
+  "lastUpdated": "2026-09-20T22:24:52.062Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -36,7 +36,7 @@
       "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-835FABE4DE14974193EDCBD05F6AA790-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
-      "name": "Dbblo",
+      "name": "zifexe",
       "displayName": "Doblo",
       "amount": 203,
       "userId": 172304387,
