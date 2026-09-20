@@ -1,11 +1,11 @@
 {
-  "totalRaised": 22497,
+  "totalRaised": 22586,
   "salesTotal": 11165,
-  "accountBalance": 11332,
+  "accountBalance": 11421,
   "availableRobux": 9959,
-  "pendingRobux": 1373,
+  "pendingRobux": 1462,
   "goal": 24800,
-  "lastUpdated": "2026-09-20T11:22:26.796Z",
+  "lastUpdated": "2026-09-20T14:45:31.589Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -19,7 +19,7 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-37535E7B7031F14D042C27C38C3CB1A4-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FD9607B657515B53CAC136CC39EFE4C9-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
@@ -40,7 +40,7 @@
       "displayName": "Doblo",
       "amount": 203,
       "userId": 172304387,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-377802FF02BF333D30C63AFF8D526492-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-385AC544002502BC453D287D76BDD399-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "tsuchikxge",
@@ -68,7 +68,7 @@
       "displayName": "alex",
       "amount": 175,
       "userId": 1233558151,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F110EEC69B335F563804CDEA5437D747-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DDD0F4A983C5E911256C604618FFC1BA-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "FatherRainuwu",
@@ -82,7 +82,7 @@
       "displayName": "travis",
       "amount": 35,
       "userId": 3205399634,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1BF46B87C32D5509C0E10703775D7E0-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4C00B03A89E9B093946D96DE8B0C2EC8-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "P1xnet",
@@ -117,7 +117,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-76D2686853BD74172543CF367BBC377F-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-04BC5F68DB50856B018B09934890B809-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
