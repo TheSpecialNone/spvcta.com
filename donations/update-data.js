@@ -100,18 +100,15 @@ function filterByCutoff(transactions, cutoffIso) {
 
 function aggregate(transactions) {
   const totals = new Map();
-  let totalRaised = 0;
 
   for (const t of transactions) {
-    totalRaised += t.amount;
     const key = t.userId || t.buyer;
     const existing = totals.get(key) || { name: t.buyer, userId: t.userId || null, amount: 0 };
     existing.amount += t.amount;
     totals.set(key, existing);
   }
 
-  const topDonators = Array.from(totals.values()).sort((a, b) => b.amount - a.amount);
-  return { totalRaised, topDonators };
+  return Array.from(totals.values()).sort((a, b) => b.amount - a.amount);
 }
 
 async function fetchAvatars(userIds) {
@@ -193,21 +190,44 @@ async function fetchAccountRobuxBalance(cookie, userId) {
   }
 }
 
+async function fetchGroupRobuxBalance(cookie, groupId) {
+  if (!cookie || !groupId) return { available: 0, pending: 0 };
+
+  try {
+    const currencyRes = await fetch(`https://economy.roblox.com/v1/groups/${groupId}/currency`, {
+      headers: { Cookie: `.ROBLOSECURITY=${cookie}` },
+    });
+    const available = currencyRes.ok ? (await currencyRes.json()).robux || 0 : 0;
+    if (!currencyRes.ok) console.warn("Could not fetch group balance, skipping:", currencyRes.status);
+
+    const totalsUrl =
+      `https://apis.roblox.com/transaction-records/v1/groups/${groupId}/transaction-totals` +
+      `?timeFrame=Month&transactionType=summary`;
+    const totalsRes = await fetch(totalsUrl, { headers: { Cookie: `.ROBLOSECURITY=${cookie}` } });
+    const pending = totalsRes.ok ? (await totalsRes.json()).pendingRobuxTotal || 0 : 0;
+    if (!totalsRes.ok) console.warn("Could not fetch group pending balance, skipping:", totalsRes.status);
+
+    return { available, pending };
+  } catch (err) {
+    console.warn("Group balance fetch failed, continuing without it:", err.message);
+    return { available: 0, pending: 0 };
+  }
+}
+
 async function main() {
   const cookie = process.env.ROBLOX_COOKIE;
 
   let salesTransactions = [];
   let transferTransactions = [];
-  let availableRobux = 0;
-  let pendingRobux = 0;
+  let userBalance = { available: 0, pending: 0 };
+  let groupBalance = { available: 0, pending: 0 };
 
   if (USE_LIVE_FETCH) {
     const authUserId = await fetchAuthenticatedUserId(cookie);
     salesTransactions = await fetchGroupSales(cookie);
     transferTransactions = await fetchIncomingTransfers(cookie, authUserId);
-    const balance = await fetchAccountRobuxBalance(cookie, authUserId);
-    availableRobux = balance.available;
-    pendingRobux = balance.pending;
+    userBalance = await fetchAccountRobuxBalance(cookie, authUserId);
+    groupBalance = await fetchGroupRobuxBalance(cookie, GROUP_ID);
   } else {
     salesTransactions = loadManualTransactions();
   }
@@ -215,15 +235,11 @@ async function main() {
   const salesFiltered = filterByCutoff(salesTransactions, SALES_CUTOFF_DATE);
   const transfersFiltered = filterByCutoff(transferTransactions, TRANSFERS_CUTOFF_DATE);
 
-  // leaderboard shows sales + transfers together, by person
-  const { topDonators } = aggregate([...salesFiltered, ...transfersFiltered]);
-
-  // the TOTAL only counts sales + balance/pending — transfers are left out of
-  // this sum since they land straight in the balance already being counted,
-  // so adding both would double-count the same Robux
+  const topDonators = aggregate([...salesFiltered, ...transfersFiltered]);
   const salesTotal = salesFiltered.reduce((sum, t) => sum + t.amount, 0);
-  const accountBalance = availableRobux + pendingRobux;
-  const totalRaised = salesTotal + accountBalance;
+
+  const totalRaised =
+    userBalance.available + userBalance.pending + groupBalance.available + groupBalance.pending;
 
   const userIds = topDonators.map(d => d.userId);
   const [avatarByUserId, userInfoByUserId] = await Promise.all([
@@ -247,16 +263,20 @@ async function main() {
   const data = {
     totalRaised,
     salesTotal,
-    accountBalance,
-    availableRobux,
-    pendingRobux,
+    userAvailableRobux: userBalance.available,
+    userPendingRobux: userBalance.pending,
+    groupAvailableRobux: groupBalance.available,
+    groupPendingRobux: groupBalance.pending,
     goal: GOAL,
     lastUpdated: new Date().toISOString(),
     topDonators: enrichedDonators,
   };
 
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(data, null, 2));
-  console.log(`Wrote ${OUTPUT_PATH} — total raised: ${totalRaised} (sales: ${salesTotal} + available: ${availableRobux} + pending: ${pendingRobux}) / ${GOAL}`);
+  console.log(
+    `Wrote ${OUTPUT_PATH} — total raised: ${totalRaised} ` +
+    `(user: ${userBalance.available}+${userBalance.pending}, group: ${groupBalance.available}+${groupBalance.pending}) / ${GOAL}`
+  );
 }
 
 main().catch(err => {
