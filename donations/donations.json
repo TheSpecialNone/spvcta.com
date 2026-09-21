@@ -1,11 +1,12 @@
 {
-  "totalRaised": 33472,
+  "totalRaised": 22307,
   "salesTotal": 11165,
-  "accountBalance": 22307,
-  "availableRobux": 20158,
-  "pendingRobux": 2149,
+  "userAvailableRobux": 20158,
+  "userPendingRobux": 2149,
+  "groupAvailableRobux": 0,
+  "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-21T21:51:12.304Z",
+  "lastUpdated": "2026-09-21T22:00:10.955Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
