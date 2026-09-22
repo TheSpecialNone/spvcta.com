@@ -1,19 +1,19 @@
 {
-  "totalRaised": 22542,
+  "totalRaised": 22674,
   "salesTotal": 11165,
-  "userAvailableRobux": 20277,
-  "userPendingRobux": 2265,
+  "userAvailableRobux": 20283,
+  "userPendingRobux": 2391,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-22T17:16:33.328Z",
+  "lastUpdated": "2026-09-22T20:18:42.741Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
       "displayName": "MxxMxMxxMzz",
       "amount": 9450,
       "userId": 10102870326,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D00D78C2B4CA220170E09BABC2203E9E-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-436C0C371908C14F657A5A5AEF099D74-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "C0MPP",
@@ -55,7 +55,7 @@
       "displayName": "fewxor",
       "amount": 192,
       "userId": 4706449351,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5D200F1C946D490CCD408E479BFA7A0B-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0385F1BF1363F9DED8AF720AAD43369B-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "d9zrnond",
@@ -69,7 +69,7 @@
       "displayName": "alex",
       "amount": 175,
       "userId": 1233558151,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A393F438A056FA8BF1DD2602AF36BE55-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B8A00F31E8EFF8F7B6110863E36964F-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "FatherRainuwu",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2B8BD8B6D5ADC9EB42D7F20D7D2937E9-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-598DEB1A8876578D2AD078FDA8FC4AE1-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
