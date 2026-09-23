@@ -1,12 +1,12 @@
 {
   "totalRaised": 22859,
   "salesTotal": 11165,
-  "userAvailableRobux": 20457,
-  "userPendingRobux": 2402,
+  "userAvailableRobux": 20639,
+  "userPendingRobux": 2220,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-23T11:54:37.556Z",
+  "lastUpdated": "2026-09-23T15:52:11.968Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -20,7 +20,7 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A86B8960804D2D65BFC5DD84A492A560-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9E46DBE1DBD8136E9F1B7978AC2B071A-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
@@ -83,7 +83,7 @@
       "displayName": "travis",
       "amount": 35,
       "userId": 3205399634,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E7226E72B1209749237F7BD01A4DA518-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B3ED78BE81ADFDADB825A02A236B53BC-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "P1xnet",
@@ -104,7 +104,7 @@
       "displayName": "Bachira",
       "amount": 3,
       "userId": 1720580134,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0C19ACC7C20373E49AAA0062FAA4BE24-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-95DD83CBDB60066A4A1498E8C45D9FD3-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "py0ne",
