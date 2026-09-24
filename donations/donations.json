@@ -1,19 +1,19 @@
 {
-  "totalRaised": 23263,
+  "totalRaised": 23269,
   "salesTotal": 11165,
   "userAvailableRobux": 20919,
-  "userPendingRobux": 2344,
+  "userPendingRobux": 2350,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-24T19:21:19.043Z",
+  "lastUpdated": "2026-09-24T22:35:25.059Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
       "displayName": "MxxMxMxxMzz",
       "amount": 9450,
       "userId": 10102870326,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A628CE7CD147301985638F0054024E50-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-34ED9C0B05296BE4A29BA7AB7500DFD4-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "C0MPP",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-598DEB1A8876578D2AD078FDA8FC4AE1-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-26D1B3A1C8ABBBE88DC85432D230E326-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
