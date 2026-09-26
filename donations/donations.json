@@ -1,12 +1,12 @@
 {
-  "totalRaised": 23625,
+  "totalRaised": 23770,
   "salesTotal": 11165,
-  "userAvailableRobux": 21563,
-  "userPendingRobux": 2062,
+  "userAvailableRobux": 21657,
+  "userPendingRobux": 2113,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-26T06:08:22.430Z",
+  "lastUpdated": "2026-09-26T11:20:17.599Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-26D1B3A1C8ABBBE88DC85432D230E326-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9908FC219320DA1D39D58A3B82D3226B-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
