@@ -1,12 +1,12 @@
 {
-  "totalRaised": 23770,
+  "totalRaised": 23812,
   "salesTotal": 11165,
-  "userAvailableRobux": 21657,
-  "userPendingRobux": 2113,
+  "userAvailableRobux": 21788,
+  "userPendingRobux": 2024,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-26T11:20:17.599Z",
+  "lastUpdated": "2026-09-26T15:02:41.504Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -83,7 +83,7 @@
       "displayName": "travis",
       "amount": 35,
       "userId": 3205399634,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B3ED78BE81ADFDADB825A02A236B53BC-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7767CF3C6D413FE35C93E1F46777CDF-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "P1xnet",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9908FC219320DA1D39D58A3B82D3226B-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2B8BD8B6D5ADC9EB42D7F20D7D2937E9-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
