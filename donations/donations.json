@@ -1,12 +1,12 @@
 {
-  "totalRaised": 24410,
+  "totalRaised": 24467,
   "salesTotal": 11165,
-  "userAvailableRobux": 22326,
-  "userPendingRobux": 2084,
+  "userAvailableRobux": 22371,
+  "userPendingRobux": 2096,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-27T14:28:23.115Z",
+  "lastUpdated": "2026-09-27T18:35:44.526Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -20,14 +20,14 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1B45B0AB6E9710A63784139E180439A8-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5DA50467319FC49EFB421E39DE92FD48-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
       "displayName": "shanks",
       "amount": 525,
       "userId": 1640204305,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-08D81324C7EDCC01C76F67413D263E13-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E0DCB25EF0A6C5C508E096CCFFEC3557-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "voemz",
@@ -55,7 +55,7 @@
       "displayName": "fewxor",
       "amount": 192,
       "userId": 4706449351,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5D857E20F65D40C050B12A07483E642C-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0385F1BF1363F9DED8AF720AAD43369B-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "d9zrnond",
@@ -69,7 +69,7 @@
       "displayName": "alex",
       "amount": 175,
       "userId": 1233558151,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7856C88F7B97C0CE239A9A5E022343D3-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F110EEC69B335F563804CDEA5437D747-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "FatherRainuwu",
@@ -83,7 +83,7 @@
       "displayName": "travis",
       "amount": 35,
       "userId": 3205399634,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B3ED78BE81ADFDADB825A02A236B53BC-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BDD6E1D12871CB9C010140D1153E5A94-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "P1xnet",
@@ -104,7 +104,7 @@
       "displayName": "Bachira",
       "amount": 3,
       "userId": 1720580134,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-309674E0D9AB07D8DFB95EB43667D46D-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DE0BC9B9830256BB7C8BCDB7FDABF874-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "py0ne",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1FF83730F98F3790B232AE5BDCD99356-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D94388DF56E5E7985A3870F9CC26A15C-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
