@@ -1,12 +1,12 @@
 {
-  "totalRaised": 24176,
+  "totalRaised": 24410,
   "salesTotal": 11165,
-  "userAvailableRobux": 22320,
-  "userPendingRobux": 1856,
+  "userAvailableRobux": 22326,
+  "userPendingRobux": 2084,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-27T12:32:57.516Z",
+  "lastUpdated": "2026-09-27T14:28:23.115Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -20,7 +20,7 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CE7F6E8CF17892E1A4496B6947CDC1F2-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1B45B0AB6E9710A63784139E180439A8-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
@@ -83,7 +83,7 @@
       "displayName": "travis",
       "amount": 35,
       "userId": 3205399634,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-42AB9F84A0E91542A2EEE1750ED7FAC6-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B3ED78BE81ADFDADB825A02A236B53BC-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "P1xnet",
@@ -97,14 +97,14 @@
       "displayName": "pvxvel",
       "amount": 10,
       "userId": 1168411447,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2211D07C25443ADA0C303F9AA56327AF-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-782CE7A8113EBE30DBD8017D82B2B8A0-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "Bacaira",
       "displayName": "Bachira",
       "amount": 3,
       "userId": 1720580134,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4498D9AFBBFAD18FEE4ECAE535E3D1C9-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-309674E0D9AB07D8DFB95EB43667D46D-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "py0ne",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9908FC219320DA1D39D58A3B82D3226B-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1FF83730F98F3790B232AE5BDCD99356-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
