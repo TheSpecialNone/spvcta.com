@@ -1,12 +1,12 @@
 {
-  "totalRaised": 24740,
+  "totalRaised": 24782,
   "salesTotal": 11165,
-  "userAvailableRobux": 22787,
-  "userPendingRobux": 1953,
+  "userAvailableRobux": 22790,
+  "userPendingRobux": 1992,
   "groupAvailableRobux": 0,
   "groupPendingRobux": 0,
   "goal": 24800,
-  "lastUpdated": "2026-09-28T18:12:53.470Z",
+  "lastUpdated": "2026-09-28T19:41:00.828Z",
   "topDonators": [
     {
       "name": "MxxMxMxxMzz",
@@ -20,7 +20,7 @@
       "displayName": "comp",
       "amount": 600,
       "userId": 1754200936,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5DA50467319FC49EFB421E39DE92FD48-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0164EEB83E4D893F66151B0AEDFE0DCD-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "pyt3e",
@@ -76,7 +76,7 @@
       "displayName": "Trexy",
       "amount": 100,
       "userId": 3332054257,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CCE989CB2BCD7034D3AE4C2ACE9DF560-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2EDE4C8636E4773784D4DCB2F374E007-Png/150/150/AvatarHeadshot/Png/isCircular"
     },
     {
       "name": "traviscott4209",
@@ -118,7 +118,7 @@
       "displayName": "tezi",
       "amount": 3,
       "userId": 2218857424,
-      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1FF83730F98F3790B232AE5BDCD99356-Png/150/150/AvatarHeadshot/Png/isCircular"
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9908FC219320DA1D39D58A3B82D3226B-Png/150/150/AvatarHeadshot/Png/isCircular"
     }
   ]
 }
